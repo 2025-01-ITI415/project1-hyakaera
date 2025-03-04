@@ -17,4 +17,6 @@ public class Point : MonoBehaviour
             Destroy(gameObject, destroyDelay);
         }
     }
+
+   
 }

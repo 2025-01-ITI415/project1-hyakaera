@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Point
+  - Enemy
+  - Cat
+  - Life
   layers:
   - Default
   - TransparentFX
@@ -16,10 +19,10 @@ TagManager:
   - 
   - Dropper
   - Point
+  - Enemy
   - Cat
-  - 
-  - 
-  - 
+  - Ground
+  - Life
   - 
   - 
   - 
